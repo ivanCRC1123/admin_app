@@ -78,8 +78,8 @@ export const RegisterPage = () => {
               Cuenta creada exitosamente
             </p>
             <p className="mb-6 text-sm text-gray-400">
-              Un administrador te asignará los roles de acceso.
-              Mientras tanto, puedes cerrar esta ventana.
+              Un administrador te asignará los roles de acceso. Mientras tanto,
+              puedes cerrar esta ventana.
             </p>
             <Link
               to="/login"
